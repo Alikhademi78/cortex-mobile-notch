@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cortex Notch</string>
+    <string name="grant_permission">Grant Overlay Permission</string>
+    <string name="start_service">Start Notch</string>
+    <string name="stop_service">Stop Notch</string>
+    <string name="permission_description">Cortex needs permission to display over other apps so the companion can cling to your camera notch.</string>
+</resources>
